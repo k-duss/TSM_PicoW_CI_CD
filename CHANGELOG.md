@@ -1,4 +1,11 @@
 # CHANGELOG.md
+ 
+## v0.0.5
+Fixes:
+ - fixed ipAddress config
+
+Features:
+ - none
 
 ## v0.0.4
 Fixes:
